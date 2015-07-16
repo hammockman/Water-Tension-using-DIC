@@ -7,5 +7,5 @@ Drying_environment_Wood_samples_were__.md
 Speckle_pattern_A_random_pattern__.md
 DIC_setup_A_VIC_3D__.md
 sample_prep.md
-CT_scanning.md
+CT Scanning.md
 Conclusions.md
