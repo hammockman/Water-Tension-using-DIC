@@ -2,7 +2,6 @@ abstract.md
 introduction.md
 Results_and_Discussion__.md
 Methodology_Sample_preparation_Wood_was__.md
-results.md
 Conclusions_Digital_Image_Correlation_has__.md
 figures/figure_1/figure_1.jpg
 Bibliographic_references_Booker_R_1994__.md
