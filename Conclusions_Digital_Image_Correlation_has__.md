@@ -11,3 +11,4 @@ Future work will use the DIC technique described above to investigate:
 * Correlations between water tension assessment and existing IC resource characterization protocols (oven-dry disc method, core collapse method)
 
   
+  
