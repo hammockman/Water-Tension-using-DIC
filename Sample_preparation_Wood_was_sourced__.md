@@ -6,3 +6,4 @@ To produce boards free of water tension, one set of boards was kiln dried immedi
 Figure 1. Wood sample showing orientation of growth rings relative to the measured face (A) and the drying faces (B)
 
   
+  
