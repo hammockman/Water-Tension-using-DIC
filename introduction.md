@@ -13,9 +13,10 @@ Digital image correlation (DIC) (Schreier, et al., 2009) has been used previousl
 
 
 
+Washboarding \cite{deyev01}.
 
 
-
+  
   
   
   
