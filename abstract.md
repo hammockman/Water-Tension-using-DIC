@@ -3,6 +3,9 @@ Collapse and intraring checks are caused by water tension arising early in dryin
 Current methods for estimating the magnitude of water tension development are time consuming and of limited accuracy. Cheaper and more accurate techniques are required if the influence, via water tension, of genotype, silviculture and post-harvest treatment on intraring check occurrence are to be understood.
 
 This paper presents work that
+
 * Evaluates DIC as a method for measuring surface strains during drying,
 * Quantitatively relate observed surface strains to the mechanical processes taking place.
 
+
+  
