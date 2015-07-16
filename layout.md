@@ -5,3 +5,4 @@ results.md
 results_table.md
 Conclusions_Digital_Image_Correlation_has__.md
 figures/figure_1/figure_1.jpg
+Bibliographic_references_Booker_R_1994__.md
