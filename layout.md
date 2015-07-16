@@ -3,6 +3,7 @@ introduction.md
 Results_and_Discussion__.md
 Methodology_Speckle_pattern_A_random__.md
 Model_for_interpreting_observed_surface__.md
+Speckle_pattern_A_random_pattern__.md
 DIC_setup_A_VIC_3D__.md
 sample_prep.md
 CT_scanning.md
