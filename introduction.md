@@ -1,6 +1,6 @@
 ## Introduction
 
-It has long been realized that water tension arises in the liquid body early in drying (Tiemann, 1915). This hydrostatic negative pressure can cause collapse and intraring checking (also known as within-ring checking or internal checking) which occur if the material is not strong enough to withstand the stresses generated in the woody substance. A good description of how water tension creates collapse and intraring checking can be found in Booker (1994). 
+It has long been realized that water tension arises in the liquid body early in drying \cite{tiemann1915principles}. In softwoods, this hydrostatic negative pressure can cause collapse and intraring checking (also known as within-ring checking or internal checking) if the material is not strong enough to withstand the stresses generated in the woody substance. A good description of how water tension creates collapse and intraring checking can be found in Booker (1994). 
 
 Because specific conditions are required to create intraring checks – a combination of weak cell walls (caused by genetics, or conditions during tree growth), and high water tension (Booker, 1994), simply counting the number of checks formed makes it difficult to disentangle the various factors contributing to it. Also, even very low incidences of checking have a major economic impact on producers. For New Zealand radiata pine, checking affecting more than 5% of boards is considered unacceptable. Scientific studies trying to quantify such isolated occurrences via counting internal checks require very large sample sizes to see effects.   
 
@@ -16,6 +16,7 @@ Digital image correlation (DIC) (Schreier, et al., 2009) has been used previousl
 
 
 
+  
   
   
   
