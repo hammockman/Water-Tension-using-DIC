@@ -6,6 +6,7 @@ Speckle Pattern.md
 DIC Setup.md
 Sample Preparation.md
 CT Scanning.md
+figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
 Results_and_Discussion__.md
 Conclusions.md
