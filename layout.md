@@ -3,4 +3,5 @@ introduction.md
 Results_and_Discussion__.md
 results.md
 results_table.md
+Conclusions_Digital_Image_Correlation_has__.md
 figures/figure_1/figure_1.jpg
