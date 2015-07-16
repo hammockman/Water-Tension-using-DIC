@@ -52,7 +52,7 @@ J to add more maths – WT10.html has a good description, but I haven’t had an
 
 
 
-## Results and Discussion
+
 
 
 ## Conclusions
@@ -80,5 +80,6 @@ Schreier, H., Orteu, J. J., & Sutton, M. A. (2009). Image correlation for shape,
 Tiemann, H. D. (1915). Principles of Kiln Drying. Lumber World Review, 15, 15-25. 
 
 
+  
   
   
