@@ -7,3 +7,4 @@ Figure 1. Wood sample showing orientation of growth rings relative to the measur
 
   
   
+  
