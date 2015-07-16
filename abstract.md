@@ -7,5 +7,6 @@ This paper presents work that
 * Evaluates DIC as a method for measuring surface strains during drying,
 * Quantitatively relate observed surface strains to the mechanical processes taking place.
 
-
+**Key words**: Digital Image Correlation, water tension, wood drying, intra-ring checking
+  
   
