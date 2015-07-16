@@ -5,7 +5,7 @@ Methodology_Speckle_pattern_A_random__.md
 Model_for_interpreting_observed_surface__.md
 Drying_environment_Wood_samples_were__.md
 Speckle_pattern_A_random_pattern__.md
-DIC_setup_A_VIC_3D__.md
+DIC Setup.md
 Sample Preparation.md
 CT Scanning.md
 Conclusions.md
