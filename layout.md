@@ -1,6 +1,6 @@
 abstract.md
 introduction.md
-Methodology_Speckle_pattern_A_random__.md
+Method.md
 Drying Environment.md
 Speckle Pattern.md
 DIC Setup.md
