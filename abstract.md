@@ -10,3 +10,4 @@ This paper presents work that
 **Key words**: Digital Image Correlation, water tension, wood drying, intra-ring checking
   
   
+  
