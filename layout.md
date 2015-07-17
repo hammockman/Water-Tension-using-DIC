@@ -1,6 +1,5 @@
 abstract.md
 introduction.md
-Method.md
 Sample Preparation.md
 Drying Environment.md
 Speckle Pattern.md
