@@ -1,5 +1,6 @@
-Future work
+Future work:
 
-Couple with acoustic emission \cite{rosner12}.
+* Couple with acoustic emission \cite{rosner12}.
+  
   
   
