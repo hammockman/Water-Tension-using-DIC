@@ -1,10 +1,10 @@
 abstract.md
 introduction.md
 Method.md
+Sample Preparation.md
 Drying Environment.md
 Speckle Pattern.md
 DIC Setup.md
-Sample Preparation.md
 CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
