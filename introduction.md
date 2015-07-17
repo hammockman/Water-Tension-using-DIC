@@ -1,4 +1,4 @@
-\cite{derome13}## Introduction
+## Introduction
 
 It has long been realized that water tension arises in the liquid body early in drying \cite{tiemann15}. In softwoods, this hydrostatic negative pressure can cause collapse and intraring checking (also known as within-ring checking or internal checking) if the material is not strong enough to withstand the stresses generated in the woody substance. A good description of how water tension creates collapse and intraring checking can be found in \citet{booker94}. 
 
@@ -16,6 +16,7 @@ Digital image correlation (DIC) (Schreier, et al., 2009) has been used previousl
 Washboarding \cite{deyev01}.
 
 
+  
   
   
   
