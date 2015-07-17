@@ -1,4 +1,4 @@
-## Introduction
+\cite{derome13}## Introduction
 
 It has long been realized that water tension arises in the liquid body early in drying \cite{tiemann15}. In softwoods, this hydrostatic negative pressure can cause collapse and intraring checking (also known as within-ring checking or internal checking) if the material is not strong enough to withstand the stresses generated in the woody substance. A good description of how water tension creates collapse and intraring checking can be found in \citet{booker94}. 
 
@@ -8,7 +8,7 @@ Degrade caused by intraring checking is a major cost to the wood processing indu
 
 Later commercial studies by WQI using this technique indicated a 5-fold variation in surface strains between different wood samples (Harrington, et al., 2007). This study also raised concerns about the accuracy of this technique, as there was a lot of scope for transcription errors during measurement, and for disturbing the measurement pins embedded in the wood surface. It was noted that if a more precise, automated method was found for measuring surface strains, this would give better results, and potentially simplify analysis by enabling longitudinal strains to be measured. 
 
-Digital image correlation (DIC) (Schreier, et al., 2009) has been used previously to measure shrinkage in wood \cite{kwon10,peng11,larsen13}, so is a good candidate for measuring the surface strains caused by water tension. Because the measurements only require photographs to be taken of the samples, they are non-contact and can be automated, measurements can be made frequently around the clock, which lowers the risk of missing measurements around key times, such as the expected decontraction point. Here a DIC method has been developed to quantify water tension in radiata pine by measuring surfaces strains. 
+Digital image correlation (DIC) (Schreier, et al., 2009) has been used previously to measure shrinkage in wood \cite{kwon10,peng11,derome13,larsen13}, so is a good candidate for measuring the surface strains caused by water tension. Because the measurements only require photographs to be taken of the samples, they are non-contact and can be automated, measurements can be made frequently around the clock, which lowers the risk of missing measurements around key times, such as the expected decontraction point. Here a DIC method has been developed to quantify water tension in radiata pine by measuring surfaces strains. 
 
 
 
@@ -16,6 +16,7 @@ Digital image correlation (DIC) (Schreier, et al., 2009) has been used previousl
 Washboarding \cite{deyev01}.
 
 
+  
   
   
   
