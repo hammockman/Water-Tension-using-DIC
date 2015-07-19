@@ -1,1 +1,2 @@
-Replace this text with your caption
+Figure ?. Samples being cut on the portable mill. 
+  
