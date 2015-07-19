@@ -1,9 +1,8 @@
 abstract.md
 introduction.md
 Sample Preparation.md
-figures/Line art of sample1/Line art of sample1.png
 figures/DSCF7233 - resized/DSCF7233 - resized.JPG
-figures/Line art of sample/Line art of sample.png
+figures/Line art of sample1/Line art of sample1.png
 Drying Environment.md
 Speckle Pattern.md
 DIC Setup.md
@@ -15,3 +14,4 @@ Challenges_of_using_DIC_over__.md
 Wood Quality Predictors for IC.md
 Future Work.md
 Conclusions.md
+  
