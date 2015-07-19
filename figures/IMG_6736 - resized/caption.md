@@ -1,1 +1,2 @@
-Replace this text with your caption
+Figure x. CT scanner, showing samples about to be scanned. 
+  
