@@ -1,1 +1,2 @@
-Replace this text with your caption
+Figure ??. Diagram of specimen, showing grain orientation relative to measured face (Face A). 
+  
