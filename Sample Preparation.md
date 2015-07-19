@@ -3,8 +3,9 @@ Wood was sourced from a local forest who supplied fresh (<24h post-felling) radi
 To produce boards free of water tension, one set of boards was kiln dried immediately after sawing, then was pressure resaturated with water prior to be painted and prepared using the same method as the boards above. 
 
  
-Figure 1. Wood sample showing orientation of growth rings relative to the measured face (A) and the drying faces (B)
 
+
+  
   
   
   
