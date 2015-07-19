@@ -1,6 +1,7 @@
 abstract.md
 introduction.md
 Sample Preparation.md
+figures/Line art of sample/Line art of sample.png
 Drying Environment.md
 Speckle Pattern.md
 DIC Setup.md
