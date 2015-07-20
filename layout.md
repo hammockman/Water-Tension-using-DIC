@@ -6,6 +6,7 @@ figures/Line art of sample1/Line art of sample1.png
 Drying Environment.md
 Speckle Pattern.md
 DIC Setup.md
+figures/IMG_6764 - resized/IMG_6764 - resized.jpg
 CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
