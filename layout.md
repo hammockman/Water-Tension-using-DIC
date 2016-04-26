@@ -13,6 +13,7 @@ Model.md
 figures/diag1/diag1.png
 figures/diag2/diag2.png
 Previously_varepsilon_T_and_S_T_have__.tex
+begin_a_2_end__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
 a_2_a_2__.tex
