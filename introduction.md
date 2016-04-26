@@ -13,7 +13,7 @@ Digital image correlation (DIC) \cite(schreier09} has been used previously to me
 
 
 
-Washboarding \cite{deyev01}.
+Washboarding  or surface "waviness" is a common  manifestation of water tension. In radiata pine this can be can be about 0.8mm deep on rings 7 to 10mm wide.\cite{deyev01}. This is almost 2 orders of magnitude than the expected strains in the longitudinal direction expected during water tension caused shrinkage.   
 
 
   
