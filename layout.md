@@ -1,5 +1,4 @@
 abstract.md
-a_1__.tex
 introduction.md
 Sample Preparation.md
 figures/DSCF7233 - resized/DSCF7233 - resized.JPG
