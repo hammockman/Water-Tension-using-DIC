@@ -14,6 +14,7 @@ Model.md
 figures/diag1/diag1.png
 figures/diag2/diag2.png
 Previously_epsilon_T_and_S_T_have__.md
+Previously_epsilon_T_and_S_T_have__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
 Wood Quality Predictors for IC.md
