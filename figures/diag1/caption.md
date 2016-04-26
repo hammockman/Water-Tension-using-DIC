@@ -1,1 +1,1 @@
-vvv
+f the material is much stiffer in the longitudinal direction than in any transverse direction then SL≈0 and STL≪ST+STZ. Then, when the above becomes:
