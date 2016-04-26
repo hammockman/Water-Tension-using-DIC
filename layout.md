@@ -15,7 +15,7 @@ figures/diag2/diag2.png
 Previously_varepsilon_T_and_S_T_have__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
-epsilon_epsilon__.tex
+verb_epsilon__.tex
 Wood Quality Predictors for IC.md
 Future Work.md
 Conclusions.md
