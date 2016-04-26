@@ -10,6 +10,7 @@ figures/IMG_6764 - resized/IMG_6764 - resized.jpg
 CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
+figures/diag1/diag1.png
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
 Wood Quality Predictors for IC.md
