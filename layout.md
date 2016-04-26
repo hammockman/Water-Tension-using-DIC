@@ -10,7 +10,6 @@ figures/IMG_6764 - resized/IMG_6764 - resized.jpg
 CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
-figures/diag1/diag1.png
 figures/diag2/diag2.png
 Previously_varepsilon_T_and_S_T_have__.tex
 begin_equation_e_mc_2__.tex
