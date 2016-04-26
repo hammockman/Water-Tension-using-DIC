@@ -13,6 +13,7 @@ Model.md
 figures/diag1/diag1.png
 figures/diag2/diag2.png
 Previously_varepsilon_T_and_S_T_have__.tex
+begin_equation_label_eqn_mass__.tex
 begin_equation_e_mc_2__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
