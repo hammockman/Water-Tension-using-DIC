@@ -1,4 +1,4 @@
-Phases:
+During drying the following phases occur (see figure x):
 
     A: Surface water evaporates. No water lost from interior water bodies. No water tension exists.
     B: Water transported as liquid to evaporative front. Water bodies large. Water tension develops. Contraction
