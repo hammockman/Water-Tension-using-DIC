@@ -12,7 +12,6 @@ figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
 If_we_treat_a_wooden__.tex
 figures/diag4/diag4.png
-blag_blah__.md
 begin_If_we_treat_a__.tex
 During_drying_the_following_phases__.md
 Results_and_Discussion__.md
