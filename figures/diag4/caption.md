@@ -1,1 +1,1 @@
-Fighure x:
+Figure x: Strain as a function of time and moisture content during drying
