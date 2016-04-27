@@ -11,6 +11,7 @@ CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
 If_we_treat_a_wooden__.tex
+figures/diag4/diag4.png
 begin_If_we_treat_a__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
