@@ -10,7 +10,6 @@ figures/IMG_6764 - resized/IMG_6764 - resized.jpg
 CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
-by_T_L_TL_ST__1.tex
 by_T_L_TL_ST__.tex
 begin_If_we_treat_a__.tex
 Results_and_Discussion__.md
