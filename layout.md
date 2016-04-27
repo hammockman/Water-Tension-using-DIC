@@ -11,7 +11,6 @@ CT Scanning.md
 figures/IMG_6736 - resized/IMG_6736 - resized.JPG
 Model.md
 begin_If_we_treat_a__.tex
-begin_equation_e_mc_2__.tex
 Results_and_Discussion__.md
 Challenges_of_using_DIC_over__.md
 Wood Quality Predictors for IC.md
